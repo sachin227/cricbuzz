@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cricbuzz/static/css/main.8b73b268.chunk.css",
+    "main.js": "/cricbuzz/static/js/main.acf48431.chunk.js",
+    "main.js.map": "/cricbuzz/static/js/main.acf48431.chunk.js.map",
+    "runtime-main.js": "/cricbuzz/static/js/runtime-main.746931f2.js",
+    "runtime-main.js.map": "/cricbuzz/static/js/runtime-main.746931f2.js.map",
+    "static/js/2.27667dc5.chunk.js": "/cricbuzz/static/js/2.27667dc5.chunk.js",
+    "static/js/2.27667dc5.chunk.js.map": "/cricbuzz/static/js/2.27667dc5.chunk.js.map",
+    "static/js/3.cd4c120a.chunk.js": "/cricbuzz/static/js/3.cd4c120a.chunk.js",
+    "static/js/3.cd4c120a.chunk.js.map": "/cricbuzz/static/js/3.cd4c120a.chunk.js.map",
+    "index.html": "/cricbuzz/index.html",
+    "static/css/main.8b73b268.chunk.css.map": "/cricbuzz/static/css/main.8b73b268.chunk.css.map",
+    "static/js/2.27667dc5.chunk.js.LICENSE.txt": "/cricbuzz/static/js/2.27667dc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.746931f2.js",
+    "static/js/2.27667dc5.chunk.js",
+    "static/css/main.8b73b268.chunk.css",
+    "static/js/main.acf48431.chunk.js"
+  ]
+}
